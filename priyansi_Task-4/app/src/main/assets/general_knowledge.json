@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+    "answer": 1
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": 1
+  },
+  {
+    "question": "Who invented Java?",
+    "options": ["James Gosling", "Bill Gates", "Steve Jobs", "Dennis Ritchie"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest ocean?",
+    "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+    "answer": 2
+  },
+  {
+    "question": "How many continents are there?",
+    "options": ["5", "6", "7", "8"],
+    "answer": 2
+  }
+]

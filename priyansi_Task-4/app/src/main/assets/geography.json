@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which is the largest continent?",
+    "options": ["Africa", "Asia", "Europe", "Australia"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "options": ["Amazon", "Nile", "Yangtze", "Ganga"],
+    "answer": 1
+  },
+  {
+    "question": "Which country has the largest population?",
+    "options": ["India", "China", "USA", "Russia"],
+    "answer": 0
+  },
+  {
+    "question": "Mount Everest is located in which mountain range?",
+    "options": ["Andes", "Alps", "Himalayas", "Rockies"],
+    "answer": 2
+  },
+  {
+    "question": "Which is the largest ocean?",
+    "options": ["Indian", "Atlantic", "Pacific", "Arctic"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "answer": 2
+  },
+  {
+    "question": "Which desert is the largest hot desert?",
+    "options": ["Gobi", "Sahara", "Arabian", "Kalahari"],
+    "answer": 1
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "Thailand", "Korea"],
+    "answer": 1
+  },
+  {
+    "question": "Which continent is known as the Dark Continent?",
+    "options": ["Asia", "Europe", "Africa", "South America"],
+    "answer": 2
+  },
+  {
+    "question": "Which is the smallest continent?",
+    "options": ["Europe", "Australia", "Africa", "Antarctica"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the capital of Canada?",
+    "options": ["Toronto", "Ottawa", "Montreal", "Vancouver"],
+    "answer": 1
+  },
+  {
+    "question": "Which river flows through Egypt?",
+    "options": ["Amazon", "Nile", "Mississippi", "Danube"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the largest country by area?",
+    "options": ["USA", "China", "Russia", "Canada"],
+    "answer": 2
+  },
+  {
+    "question": "Which ocean lies between Africa and Australia?",
+    "options": ["Pacific", "Atlantic", "Indian", "Arctic"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": ["Rio de Janeiro", "Brasília", "São Paulo", "Salvador"],
+    "answer": 1
+  },
+  {
+    "question": "Which country has the most islands?",
+    "options": ["Indonesia", "Sweden", "Japan", "Philippines"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the highest waterfall in the world?",
+    "options": ["Niagara Falls", "Victoria Falls", "Angel Falls", "Iguazu Falls"],
+    "answer": 2
+  },
+  {
+    "question": "Which is the coldest continent?",
+    "options": ["Europe", "Asia", "Antarctica", "North America"],
+    "answer": 2
+  },
+  {
+    "question": "Which is the deepest ocean?",
+    "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+    "answer": 2
+  },
+  {
+    "question": "Which country is famous for the Great Wall?",
+    "options": ["India", "China", "Japan", "Mongolia"],
+    "answer": 1
+  },
+  {
+    "question": "Which US state is known as the Sunshine State?",
+    "options": ["California", "Florida", "Texas", "Nevada"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the capital of Italy?",
+    "options": ["Rome", "Venice", "Milan", "Naples"],
+    "answer": 0
+  },
+  {
+    "question": "Which sea separates Europe and Africa?",
+    "options": ["Black Sea", "Mediterranean Sea", "Red Sea", "Arabian Sea"],
+    "answer": 1
+  },
+  {
+    "question": "Which country has the city of Dubai?",
+    "options": ["Saudi Arabia", "Qatar", "United Arab Emirates", "Oman"],
+    "answer": 2
+  },
+  {
+    "question": "Which is the highest mountain in Africa?",
+    "options": ["Mount Kenya", "Mount Kilimanjaro", "Atlas", "Elgon"],
+    "answer": 1
+  },
+  {
+    "question": "Which country has the maple leaf on its flag?",
+    "options": ["USA", "Canada", "Australia", "UK"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the capital of Germany?",
+    "options": ["Munich", "Berlin", "Hamburg", "Frankfurt"],
+    "answer": 1
+  },
+  {
+    "question": "Which river passes through London?",
+    "options": ["Seine", "Danube", "Thames", "Rhine"],
+    "answer": 2
+  },
+  {
+    "question": "Which country is known for the pyramids?",
+    "options": ["Mexico", "Egypt", "Peru", "India"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the largest island in the world?",
+    "options": ["Greenland", "Australia", "Madagascar", "Borneo"],
+    "answer": 0
+  }
+]

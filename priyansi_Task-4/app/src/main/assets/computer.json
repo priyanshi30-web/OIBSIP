@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Control Processing Unit"],
+    "answer": 0
+  },
+  {
+    "question": "Which company developed Windows?",
+    "options": ["Apple", "Google", "Microsoft", "IBM"],
+    "answer": 2
+  },
+  {
+    "question": "Which device is used to point and click?",
+    "options": ["Keyboard", "Monitor", "Mouse", "Printer"],
+    "answer": 2
+  },
+  {
+    "question": "What does RAM stand for?",
+    "options": ["Random Access Memory", "Read Access Memory", "Run Access Memory", "Random Available Memory"],
+    "answer": 0
+  },
+  {
+    "question": "Which is an input device?",
+    "options": ["Monitor", "Printer", "Keyboard", "Speaker"],
+    "answer": 2
+  },
+  {
+    "question": "What does ROM stand for?",
+    "options": ["Read Only Memory", "Run Only Memory", "Random Only Memory", "Read Open Memory"],
+    "answer": 0
+  },
+  {
+    "question": "Which programming language is used for Android development?",
+    "options": ["Java", "HTML", "CSS", "SQL"],
+    "answer": 0
+  },
+  {
+    "question": "Who is known as the father of computers?",
+    "options": ["Charles Babbage", "Bill Gates", "Steve Jobs", "Alan Turing"],
+    "answer": 0
+  },
+  {
+    "question": "Which company developed Android?",
+    "options": ["Apple", "Google", "Microsoft", "Samsung"],
+    "answer": 1
+  },
+  {
+    "question": "Which key refreshes a webpage?",
+    "options": ["F1", "F2", "F5", "F12"],
+    "answer": 2
+  },
+  {
+    "question": "Which storage device has the largest capacity?",
+    "options": ["CD", "DVD", "Hard Disk", "Floppy Disk"],
+    "answer": 2
+  },
+  {
+    "question": "Which is an operating system?",
+    "options": ["Windows", "Chrome", "MS Word", "Photoshop"],
+    "answer": 0
+  },
+  {
+    "question": "What does USB stand for?",
+    "options": ["Universal Serial Bus", "United System Bus", "Universal System Board", "United Serial Board"],
+    "answer": 0
+  },
+  {
+    "question": "Which device prints documents?",
+    "options": ["Scanner", "Printer", "Monitor", "Projector"],
+    "answer": 1
+  },
+  {
+    "question": "What is the brain of the computer?",
+    "options": ["RAM", "CPU", "Monitor", "Hard Disk"],
+    "answer": 1
+  },
+  {
+    "question": "Which software is used to browse the internet?",
+    "options": ["Chrome", "Paint", "Excel", "PowerPoint"],
+    "answer": 0
+  },
+  {
+    "question": "Which shortcut copies selected text?",
+    "options": ["Ctrl + X", "Ctrl + V", "Ctrl + C", "Ctrl + Z"],
+    "answer": 2
+  },
+  {
+    "question": "Which shortcut pastes copied text?",
+    "options": ["Ctrl + C", "Ctrl + V", "Ctrl + X", "Ctrl + A"],
+    "answer": 1
+  },
+  {
+    "question": "Which shortcut cuts selected text?",
+    "options": ["Ctrl + X", "Ctrl + C", "Ctrl + V", "Ctrl + Z"],
+    "answer": 0
+  },
+  {
+    "question": "What is the full form of URL?",
+    "options": ["Uniform Resource Locator", "Universal Resource Link", "Uniform Reference Link", "Universal Reference Locator"],
+    "answer": 0
+  },
+  {
+    "question": "Which company makes the iPhone?",
+    "options": ["Samsung", "Google", "Apple", "Nokia"],
+    "answer": 2
+  },
+  {
+    "question": "Which file extension is used for Java source files?",
+    "options": [".java", ".class", ".exe", ".apk"],
+    "answer": 0
+  },
+  {
+    "question": "Which software is used for presentations?",
+    "options": ["Excel", "PowerPoint", "Word", "Paint"],
+    "answer": 1
+  },
+  {
+    "question": "Which software is used for spreadsheets?",
+    "options": ["Excel", "Word", "PowerPoint", "Paint"],
+    "answer": 0
+  },
+  {
+    "question": "Which software is used for word processing?",
+    "options": ["Word", "Excel", "PowerPoint", "Access"],
+    "answer": 0
+  },
+  {
+    "question": "Which network connects computers worldwide?",
+    "options": ["LAN", "WAN", "Internet", "VPN"],
+    "answer": 2
+  },
+  {
+    "question": "What does PDF stand for?",
+    "options": ["Portable Document Format", "Public Document File", "Printable Data Format", "Portable Data File"],
+    "answer": 0
+  },
+  {
+    "question": "Which company created Java?",
+    "options": ["Microsoft", "Sun Microsystems", "Google", "IBM"],
+    "answer": 1
+  },
+  {
+    "question": "Which memory is temporary?",
+    "options": ["ROM", "RAM", "Hard Disk", "SSD"],
+    "answer": 1
+  },
+  {
+    "question": "What is the full form of WWW?",
+    "options": ["World Wide Web", "World Web Wide", "Wide World Web", "Web World Wide"],
+    "answer": 0
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["CO2", "H2O", "O2", "NaCl"],
+    "answer": 1
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Earth", "Mercury", "Mars"],
+    "answer": 2
+  },
+  {
+    "question": "What gas do humans breathe in?",
+    "options": ["Carbon Dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+    "answer": 2
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Heart", "Liver", "Skin", "Brain"],
+    "answer": 2
+  },
+  {
+    "question": "Which blood group is called the universal donor?",
+    "options": ["A", "B", "AB", "O Negative"],
+    "answer": 3
+  },
+  {
+    "question": "How many bones are there in an adult human body?",
+    "options": ["206", "201", "210", "196"],
+    "answer": 0
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Cytoplasm"],
+    "answer": 2
+  },
+  {
+    "question": "Which gas is responsible for global warming?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+    "answer": 1
+  },
+  {
+    "question": "Which vitamin is produced by sunlight?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin B12"],
+    "answer": 2
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Iron", "Mercury", "Gold", "Silver"],
+    "answer": 1
+  },
+  {
+    "question": "What is the nearest star to Earth?",
+    "options": ["Polaris", "Sun", "Sirius", "Alpha Centauri"],
+    "answer": 1
+  },
+  {
+    "question": "Which planet has rings?",
+    "options": ["Mars", "Earth", "Saturn", "Venus"],
+    "answer": 2
+  },
+  {
+    "question": "Which part of the plant makes food?",
+    "options": ["Stem", "Leaf", "Root", "Flower"],
+    "answer": 1
+  },
+  {
+    "question": "Which force keeps us on the ground?",
+    "options": ["Magnetism", "Gravity", "Electricity", "Friction"],
+    "answer": 1
+  },
+  {
+    "question": "Which organ filters blood?",
+    "options": ["Heart", "Kidney", "Liver", "Lungs"],
+    "answer": 1
+  },
+  {
+    "question": "What is the freezing point of water?",
+    "options": ["0°C", "10°C", "32°C", "100°C"],
+    "answer": 0
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "options": ["50°C", "90°C", "100°C", "120°C"],
+    "answer": 2
+  },
+  {
+    "question": "What is the center of an atom called?",
+    "options": ["Electron", "Neutron", "Nucleus", "Proton"],
+    "answer": 2
+  },
+  {
+    "question": "Which gas do plants release?",
+    "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Helium"],
+    "answer": 1
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Einstein", "Newton", "Galileo", "Tesla"],
+    "answer": 1
+  },
+  {
+    "question": "Which vitamin helps blood clot?",
+    "options": ["Vitamin A", "Vitamin K", "Vitamin D", "Vitamin C"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the smallest planet?",
+    "options": ["Mercury", "Mars", "Earth", "Venus"],
+    "answer": 0
+  },
+  {
+    "question": "How many planets are in our solar system?",
+    "options": ["7", "8", "9", "10"],
+    "answer": 1
+  },
+  {
+    "question": "Which instrument measures temperature?",
+    "options": ["Barometer", "Thermometer", "Speedometer", "Altimeter"],
+    "answer": 1
+  },
+  {
+    "question": "Which gas is used in balloons?",
+    "options": ["Hydrogen", "Helium", "Nitrogen", "Oxygen"],
+    "answer": 1
+  },
+  {
+    "question": "Which scientist developed the theory of relativity?",
+    "options": ["Newton", "Einstein", "Darwin", "Faraday"],
+    "answer": 1
+  },
+  {
+    "question": "Which blood cells fight infection?",
+    "options": ["Red Blood Cells", "White Blood Cells", "Platelets", "Plasma"],
+    "answer": 1
+  },
+  {
+    "question": "What is the hardest natural substance?",
+    "options": ["Gold", "Diamond", "Iron", "Quartz"],
+    "answer": 1
+  },
+  {
+    "question": "Which organ controls the body?",
+    "options": ["Heart", "Brain", "Lungs", "Liver"],
+    "answer": 1
+  },
+  {
+    "question": "Which planet is called the Blue Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "answer": 0
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which country won the ICC Cricket World Cup 2023?",
+    "options": ["India", "Australia", "England", "New Zealand"],
+    "answer": 1
+  },
+  {
+    "question": "How many players are there in a football team on the field?",
+    "options": ["9", "10", "11", "12"],
+    "answer": 2
+  },
+  {
+    "question": "Which sport uses a shuttlecock?",
+    "options": ["Tennis", "Badminton", "Squash", "Table Tennis"],
+    "answer": 1
+  },
+  {
+    "question": "Who is known as the 'God of Cricket'?",
+    "options": ["Virat Kohli", "MS Dhoni", "Sachin Tendulkar", "Rohit Sharma"],
+    "answer": 2
+  },
+  {
+    "question": "Which country hosted the FIFA World Cup 2022?",
+    "options": ["Brazil", "Russia", "Qatar", "Germany"],
+    "answer": 2
+  },
+  {
+    "question": "How many rings are there on the Olympic flag?",
+    "options": ["4", "5", "6", "7"],
+    "answer": 1
+  },
+  {
+    "question": "Which sport is played at Wimbledon?",
+    "options": ["Golf", "Tennis", "Cricket", "Football"],
+    "answer": 1
+  },
+  {
+    "question": "Which country invented basketball?",
+    "options": ["USA", "Canada", "England", "Australia"],
+    "answer": 1
+  },
+  {
+    "question": "Which Indian won the Olympic gold medal in javelin?",
+    "options": ["Neeraj Chopra", "Milkha Singh", "Abhinav Bindra", "P. V. Sindhu"],
+    "answer": 0
+  },
+  {
+    "question": "How many players are on a volleyball team?",
+    "options": ["5", "6", "7", "8"],
+    "answer": 1
+  },
+  {
+    "question": "Which country has won the most FIFA World Cups?",
+    "options": ["Germany", "Argentina", "Brazil", "Italy"],
+    "answer": 2
+  },
+  {
+    "question": "Which sport uses a bat, ball and wickets?",
+    "options": ["Baseball", "Cricket", "Hockey", "Rugby"],
+    "answer": 1
+  },
+  {
+    "question": "What is the national sport of India?",
+    "options": ["Cricket", "Kabaddi", "Hockey", "Football"],
+    "answer": 2
+  },
+  {
+    "question": "Which country hosted the Olympics 2024?",
+    "options": ["Japan", "France", "USA", "China"],
+    "answer": 1
+  },
+  {
+    "question": "How many players are there in a cricket team?",
+    "options": ["9", "10", "11", "12"],
+    "answer": 2
+  },
+  {
+    "question": "Which game is known as the 'King of Sports'?",
+    "options": ["Cricket", "Football", "Basketball", "Tennis"],
+    "answer": 1
+  },
+  {
+    "question": "Which country won the FIFA World Cup 2022?",
+    "options": ["France", "Argentina", "Brazil", "Germany"],
+    "answer": 1
+  },
+  {
+    "question": "Which sport is associated with the NBA?",
+    "options": ["Football", "Basketball", "Baseball", "Hockey"],
+    "answer": 1
+  },
+  {
+    "question": "Who has won the most Grand Slam titles in men's tennis?",
+    "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+    "answer": 2
+  },
+  {
+    "question": "Which country invented cricket?",
+    "options": ["India", "England", "Australia", "South Africa"],
+    "answer": 1
+  },
+  {
+    "question": "Which sport uses a puck?",
+    "options": ["Hockey", "Football", "Baseball", "Golf"],
+    "answer": 0
+  },
+  {
+    "question": "How many points is a try worth in rugby union?",
+    "options": ["3", "5", "6", "7"],
+    "answer": 1
+  },
+  {
+    "question": "Which Indian badminton player won an Olympic silver medal in 2016?",
+    "options": ["Saina Nehwal", "P. V. Sindhu", "Jwala Gutta", "Ashwini Ponnappa"],
+    "answer": 1
+  },
+  {
+    "question": "Which sport is played on ice with stones and brooms?",
+    "options": ["Curling", "Ice Hockey", "Skating", "Skiing"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has won the most Olympic medals overall?",
+    "options": ["USA", "China", "Russia", "Great Britain"],
+    "answer": 0
+  },
+  {
+    "question": "Which game uses the term 'love' for zero?",
+    "options": ["Cricket", "Tennis", "Football", "Golf"],
+    "answer": 1
+  },
+  {
+    "question": "Which sport features the Tour de France?",
+    "options": ["Running", "Cycling", "Swimming", "Rowing"],
+    "answer": 1
+  },
+  {
+    "question": "Which sport is associated with the Ryder Cup?",
+    "options": ["Golf", "Tennis", "Football", "Cricket"],
+    "answer": 0
+  },
+  {
+    "question": "Which country won the ICC Men's T20 World Cup 2024?",
+    "options": ["India", "South Africa", "Australia", "England"],
+    "answer": 0
+  },
+  {
+    "question": "What is the maximum score with one dart in darts?",
+    "options": ["50", "60", "100", "180"],
+    "answer": 1
+  }
+]
